@@ -1,0 +1,278 @@
+{
+  "list": [
+    {
+      "id": 23,
+      "classid": 2,
+      "name": "Celery scrambled eggs",
+      "type": "breakfast",
+      "peoplenum": "1-2 people",
+      "preparetime": "10-20 minutes",
+      "cookingtime": "10-20 minutes",
+      "content": "Celery is one of the commonly used vegetables, which can be hot fried and cold mixed, and is loved by people. Celery has a high iron content and is a good vegetable for patients with iron deficiency anemia. Celery also lowers blood sugar. Often eat some celery, can neutralize uric acid and acidic substances in the body, has a better effect on the prevention of gout. Especially suitable for high blood pressure, arteriosclerosis, high blood sugar, iron deficiency anemia, menstruating women; Celery is cool and slippery, spleen and stomach deficiency cold, loose stool thin should not eat more, celery has the effect of lowering blood pressure, so low blood pressure with caution; Men who plan to have a family should pay attention to eating less. <br /> Celery scrambled eggs is a very good dish, the nutritional value of the two is very rich.",
+      "pic": "http://api.jisuapi.com/recipe/upload/20160719/115140_92696.jpg",
+      "tag": "Lose weight, lose weight, lower blood pressure, hypertension, obesity",
+      "material": [
+        {
+          "mname": "Sesame oil",
+          "type": 0,
+          "amount": "A little"
+        },
+        {
+          "mname": "pricklyash",
+          "type": 0,
+          "amount": "A little"
+        },
+        {
+          "mname": "The onion",
+          "type": 0,
+          "amount": "Appropriate amount"
+        },
+        {
+          "mname": "sugar",
+          "type": 0,
+          "amount": "A little"
+        },
+        {
+          "mname": "Cooking wine",
+          "type": 0,
+          "amount": "A little"
+        },
+        {
+          "mname": "Little pepper",
+          "type": 0,
+          "amount": "three"
+        },
+        {
+          "mname": "salt",
+          "type": 0,
+          "amount": "Appropriate amount"
+        },
+        {
+          "mname": "oil",
+          "type": 0,
+          "amount": "Appropriate amount"
+        },
+        {
+          "mname": "egg",
+          "type": 1,
+          "amount": "three"
+        },
+        {
+          "mname": "celery",
+          "type": 1,
+          "amount": "250g"
+        }
+      ],
+      "process": [
+        {
+          "pcontent": "To prepare the ingredients, remove the leaves and wash the celery",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162645_79576.jpg"
+        },
+        {
+          "pcontent": "Beat the egg, add 1 tablespoon of water and a little cooking wine, and stir well. Slice the celery diagonally. Cut the green onion and red pepper into sections",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162645_10148.jpg"
+        },
+        {
+          "pcontent": "Add oil to the pan, pour in the egg mixture,",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162646_13427.jpg"
+        },
+        {
+          "pcontent": "Slightly set, stir into small pieces with a spatula and remove",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162646_13507.jpg"
+        },
+        {
+          "pcontent": "Add oil in the pan, 60% heat, add peppercorns fried fragrant out, add red peppercorns until fragrant",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162646_43774.jpg"
+        },
+        {
+          "pcontent": "Add scallions until fragrant",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162646_85709.jpg"
+        },
+        {
+          "pcontent": "Add celery and stir-fry for about 2 minutes until the color changes and salt and sugar are added",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162646_13941.jpg"
+        },
+        {
+          "pcontent": "Add egg and saute well",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162646_15408.jpg"
+        },
+        {
+          "pcontent": "Add sesame oil and mix well",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162646_42695.jpg"
+        },
+        {
+          "pcontent": "platter",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162647_30253.jpg"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "classid": 2,
+      "name": "Scrambled eggs with leeks",
+      "type": "breakfast",
+      "peoplenum": "1-2 persons",
+      "preparetime": "10-20 minutes",
+      "cookingtime": "10-20 minutes",
+      "content": "Scrambled eggs with leeks is a very classic home-cooked dish, and is considered a taste of memory.<br /><br />    Scrambled eggs with leeks is really a very common, home-cooked and flavorful dish. I don't like the soft, couchy leek leaves and flavorless egg pieces in scrambled eggs with leeks. Then improve it; spread the eggs into an egg cake and use it to scramble leeks.<br /><br />    The leeks in general are easy to get watery during the frying process, especially after mixing in the salt, so if the leek leaves and leek stems are added to the pot at the same time it is very easy to cause the leek stems to be cooked, but the leek leaves are soft and mushy. In fact, when stir-frying leeks, the leek stems and leek leaves into the pot separately, first put leek stems slightly stir-fried and then put leek leaves, so you can avoid the phenomenon of leek leaves paste rotten water.<br /><br /><br />    Because of its nutritional value, leek is a warming tonic for the liver and kidneys, and helps to strengthen the essence of Yang, so it is known as the \"Yang-raising herb\" in the pharmacopoeia. It has been cultivated in China for more than 3,000 years and is a vegetable of great nutritional value. Leeks are not only tender and pungent, but also rich in nutrients. Chinese medicine believes that leeks are sweet and warm in taste and have the effect of tonifying the kidneys and benefiting the yang, dispersing blood and detoxifying the body, harmonizing the internal organs, warming the stomach, warming the appetite, and removing dampness and blood. Eating leeks and eggs together harmonizes yin and yang and has a significant toning effect on the body. It nourishes the liver and makes people more energetic. Eating more eggs may lead to higher cholesterol, but the sulfide in leeks can lower blood lipids.",
+      "pic": "http://api.jisuapi.com/recipe/upload/20160719/115145_60232.jpg",
+      "tag": "urinary frequency,liver tonic,impotence,yang deficiency,spring,private,weight loss,slimming,aphrodisiac,kidney aphrodisiac,obesity",
+      "material": [
+        {
+          "mname": "Oil",
+          "type": 0,
+          "amount": "the right amount"
+        },
+        {
+          "mname": "Salt",
+          "type": 0,
+          "amount": "the right amount"
+        },
+        {
+          "mname": "Ginger",
+          "type": 0,
+          "amount": "the right amount"
+        },
+        {
+          "mname": "Dried red peppers",
+          "type": 0,
+          "amount": "the right amount"
+        },
+        {
+          "mname": "Leek",
+          "type": 1,
+          "amount": "200g"
+        },
+        {
+          "mname": "Eggs",
+          "type": 1,
+          "amount": "3 pieces"
+        }
+      ],
+      "process": [
+        {
+          "pcontent": "Wash the leeks and cut them into long pieces.",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162718_31983.jpg"
+        },
+        {
+          "pcontent": "Egg mixture with a pinch of refined salt",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162718_58787.jpg"
+        },
+        {
+          "pcontent": "Grease a pan with a little oil and when the pan is hot, pour in the right amount of egg mixture.",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162718_34123.jpg"
+        },
+        {
+          "pcontent": "Gently rotate the pan to spread the egg mixture evenly",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162718_23985.jpg"
+        },
+        {
+          "pcontent": "Fry on low heat until golden brown, then turn over and fry the other side.",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162718_12485.jpg"
+        },
+        {
+          "pcontent": "Let the fried egg pancakes cool and then cut them into large slices.",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162718_20610.jpg"
+        },
+        {
+          "pcontent": "Start a frying pan, add chili pieces and ginger to pop.",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162718_36644.jpg"
+        },
+        {
+          "pcontent": "Add the egg cake and leek stems and stir-fry.",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162719_28473.jpg"
+        },
+        {
+          "pcontent": "Add the leek leaves and stir-fry well.",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162719_34760.jpg"
+        },
+        {
+          "pcontent": "Turn off the heat, season with refined salt and stir-fry evenly before serving.",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162719_80903.jpg"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "classid": 2,
+      "name": "Hawthorn chicken wings--no oil, low-cal appetizer meat dish",
+      "type": "lunch",
+      "peoplenum": "1-2人",
+      "preparetime": "30分钟-1小时",
+      "cookingtime": "10-20分钟",
+      "content": "The fifth day of the final ambush, but the weather is still too hot to say, what to eat every day has become the biggest headache, one is no appetite, the second hot day in the kitchen smoky drop cooking who can not stand.<br />Then try this Hawthorn Chicken Wings. Hawthorn has the effect of eliminating food and appetite, removing fat and grease, and the sweet and sour hawthorn and chicken wings are steamed together in a pot.",
+      "pic": "http://api.jisuapi.com/recipe/upload/20160719/115152_22172.jpg",
+      "tag": "Weight loss, appetizer, fat elimination, slimming",
+      "material": [
+        {
+          "mname": "Salt",
+          "type": 0,
+          "amount": "1 small spoon"
+        },
+        {
+          "mname": "White wine",
+          "type": 0,
+          "amount": "2 small spoon"
+        },
+        {
+          "mname": "Onion",
+          "type": 0,
+          "amount": "the right amount"
+        },
+        {
+          "mname": "Ginger",
+          "type": 0,
+          "amount": "the right amount"
+        },
+        {
+          "mname": "Chicken wings",
+          "type": 1,
+          "amount": "350g"
+        },
+        {
+          "mname": "Hawthorn",
+          "type": 1,
+          "amount": "150g"
+        }
+      ],
+      "process": [
+        {
+          "pcontent": "Preparation Materials",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162822_56098.jpg"
+        },
+        {
+          "pcontent": "Clean the chicken wings and soak them in water for 15 minutes, adding a spoonful of white wine to the water<br />\n<br />\n",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162822_24120.jpg"
+        },
+        {
+          "pcontent": "Take out the chicken wings and control the water, and beat the chicken wings on both sides with a knife",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162823_19022.jpg"
+        },
+        {
+          "pcontent": "Add 1 tablespoon of white wine",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162823_84781.jpg"
+        },
+        {
+          "pcontent": "Add a spoonful of Salt",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162823_89038.jpg"
+        },
+        {
+          "pcontent": "Sprinkle the chopped OnionGinger, mix well and marinate for 20 minutes.",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162823_77881.jpg"
+        },
+        {
+          "pcontent": "Marinated chicken wings selected to remove OnionGinger, hawthorn can open",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162824_42840.jpg"
+        },
+        {
+          "pcontent": "Sprinkle the sugar water hawthorn evenly on the chicken wings",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162824_49526.jpg"
+        },
+        {
+          "pcontent": "Steam on high heat for 20 minutes, turn off the heat and simmer for 10 minutes to take out, serve hot or cold<br />\n",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/162824_21692.jpg"
+        }
+      ]
+    }
+  ]
+  }
