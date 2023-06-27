@@ -58,7 +58,20 @@ class CreateAccountActivity : MyBaseActivity() {
                 return@setOnClickListener
             }
 
+            val list:ArrayList<User> = userDao!!.queryOfData(account)
+            if (list.size == 0){
+                var  user = User()
+                user.account = account
+                user.name = name
+                user.password = password
+                if (userDao!!.add(user) > 0){
+                    showToast("Register successfully")
+                    finish()
+                }
+            }else{
+                showToast("The account has been registered")
 
+            }
 
         }
 

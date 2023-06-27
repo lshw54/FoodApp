@@ -69,7 +69,9 @@ class ChangePwdActivity : MyBaseActivity() {
         }
 
 
-
+        back_img.setOnClickListener {
+            finish()
+        }
 
     }
 

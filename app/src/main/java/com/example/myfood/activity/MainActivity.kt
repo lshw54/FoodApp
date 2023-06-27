@@ -106,7 +106,9 @@ class MainActivity : MyBaseActivity() {
             }else{
                 val permissions = arrayOf(READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE, CAMERA,
                     ACCESS_FINE_LOCATION,ACCESS_COARSE_LOCATION)
-
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+                    requestPermissions(permissions,1)
+                }
             }
         }
 
