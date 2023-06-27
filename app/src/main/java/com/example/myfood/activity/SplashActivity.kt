@@ -58,7 +58,7 @@ class SplashActivity : MyBaseActivity() {
         }
 
         Timer().schedule(3000) {
-            startActivity(Intent(activity,MainActivity))
+            startActivity(Intent(activity,MainActivity::class.java))
             finish()
         }
     }
