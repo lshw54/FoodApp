@@ -68,7 +68,10 @@ class MyDynamicActivity : MyBaseActivity() {
                     val bundle = Bundle()
                     bundle.putSerializable("data", circleListBean)
                     commentDialog!!.arguments = bundle
-
+                    commentDialog!!.setOnDismissListener { dialog ->
+                        commentDialog = null
+                        SoftKeyboardUtil.hideSoftKeyboard(activity)
+                    }
                     commentDialog!!.setOnCommentSuccess { comment ->
                         var commentList: MutableList<Comment?>? =
                             circleListBean?.commentList

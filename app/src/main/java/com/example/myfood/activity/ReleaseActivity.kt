@@ -325,7 +325,9 @@ class ReleaseActivity : MyBaseActivity() {
                     }
                 }
 
+                override fun onCancel() {
 
+                }
             })
     }
 
