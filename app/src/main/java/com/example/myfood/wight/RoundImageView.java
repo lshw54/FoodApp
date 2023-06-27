@@ -48,7 +48,7 @@ public class RoundImageView extends AppCompatImageView {
     protected void onDraw(Canvas canvas) {
         if (width >= FILLET && height > FILLET) {
             Path path = new Path();
-            //四个圆角
+
             path.moveTo(FILLET, 0);
             path.lineTo(width - FILLET, 0);
             path.quadTo(width, 0, width, FILLET);

@@ -61,7 +61,6 @@ class LoginActivity : MyBaseActivity() {
                 if (password == user.password){
                     val vb = getSystemService(Service.VIBRATOR_SERVICE) as Vibrator
                     if(vb.hasVibrator()){
-                        //振动的秒数
                         val vibe:Vibrator = activity?.getSystemService(Context.VIBRATOR_SERVICE) as Vibrator
                         var effect: VibrationEffect = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
                             VibrationEffect.createOneShot(mDuration, VibrationEffect.DEFAULT_AMPLITUDE)

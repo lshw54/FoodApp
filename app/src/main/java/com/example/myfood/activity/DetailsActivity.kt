@@ -44,9 +44,7 @@ class DetailsActivity : MyBaseActivity() {
         recycler_view.adapter = detailsAdapter
         if (food != null){
             title_tv.text = food!!.name
-            //图片
 
-            //图片
             if (!TextUtils.isEmpty(food!!.getPic())) {
                 Glide.with(activity!!)
                     .load(food!!.getPic())

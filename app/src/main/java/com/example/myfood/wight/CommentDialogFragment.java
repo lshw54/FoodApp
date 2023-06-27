@@ -97,7 +97,7 @@ public class CommentDialogFragment extends DialogFragment implements View.OnClic
 
         loginUser = FoodApplication.getInstance().getUser();
         if (comment != null){
-            editText.setHint("回复"+comment.getUserName()+":");
+            editText.setHint("Reply"+comment.getUserName()+":");
         }
     }
 
@@ -117,18 +117,7 @@ public class CommentDialogFragment extends DialogFragment implements View.OnClic
                     comment.setReplyName(this.comment.getUserName());
                 }
                 Log.e("TAG", "onClick: "+commentDao.add(comment));
-               /* comment.save(new SaveListener<String>() {
-                    @Override
-                    public void done(String s, BmobException e) {
-                        if (e == null) {
-                            //toast("添加数据成功，返回objectId为：" + objectId);
-                            Log.e("TAG", "添加数据成功，返回objectId为：" + s);
-                        } else {
-                            //toast("创建数据失败：" + e.getMessage());
-                            Log.e("TAG", "创建数据失败：" + e.getMessage());
-                        }
-                    }
-                });*/
+
                 if (onCommentSuccess != null){
                     onCommentSuccess.onCommentSuccess(comment);
                 }

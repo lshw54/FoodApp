@@ -9,7 +9,7 @@ public class SharedPreferenceUtil {
     private static SharedPreferences mSharedPreferences = null;
 
     /**
-     * 单例模式
+     * Singleton mode
      */
     private static synchronized SharedPreferences getInstance(Context context) {
         if (mSharedPreferences == null) {

@@ -129,9 +129,9 @@ class RecommedFragment : BaseFragment() {
 
 
         timer.scheduleAtFixedRate(0, CAROUSEL_TIME) {
-            //任务实现
+
             //Log.e(TAG, "initViews: $currentItem")
-            //需要执行的任务
+
             GlobalScope.launch(Dispatchers.IO) {
                 //上下文切换到主线程
                 GlobalScope.launch(Dispatchers.Main) {
