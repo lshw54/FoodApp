@@ -38,7 +38,10 @@ public class CommentAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
         this.onMyChildrenClickListenr = onMyChildrenClickListenr;
     }
 
-
+    @Override
+    public int getItemCount() {
+        return commentList == null ? 0 : commentList.size();
+    }
 
     @NonNull
     @Override
