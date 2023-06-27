@@ -57,7 +57,10 @@ class SplashActivity : MyBaseActivity() {
             }
         }
 
-
+        Timer().schedule(3000) {
+            startActivity(Intent(activity,MainActivity))
+            finish()
+        }
     }
 
     override fun Layout(): Int {
