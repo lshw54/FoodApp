@@ -273,6 +273,72 @@
           "pic": "http://api.jisuapi.com/recipe/upload/20160719/162824_21692.jpg"
         }
       ]
+    },
+    {
+      "id": 433,
+      "classid": 3,
+      "name": "Winter bamboo shoots and duck soup",
+      "peoplenum": "1-2 people",
+      "type": "dinner",
+      "preparetime": "N/A",
+      "cookingtime": "30 minutes - 1 hour",
+      "content": "I went to my mother's house before Chinese New Year and saw my mother handling the freshly slaughtered muscovy ducks on the balcony. Under the sun, my mother carefully pulled out the duck feathers one by one, and told me to remember to take them away before leaving. She said that my younger brother told a friend in the mountain area to raise them a few months ago. When I came back, I told my mother that one must be left for me. My mother was afraid that I would be troublesome, so she slaughtered the duck without saying a word. My father also chopped the duck into pieces and packed it and asked me to bring it back. When the smell of duck soup wafted, Wu’s mind It is full of love from my family, and my heart is full of happiness. Having such a family is a blessing in Wu's life. When I am sad, when I am lost, and when I am panicked, only my family is me. The warmest support, every time I feel helpless, my mother will always call: Come back, come to me to rest<br /><br />",
+      "pic": "http://api.jisuapi.com/recipe/upload/20160719/115310_45546.jpg",
+      "tag": "Winter, weight loss, salty, soup, pot, slimming, white-collar, obesity",
+      "material": [
+        {
+          "mname": "Ginger",
+          "type": 0,
+          "amount": "25g"
+        },
+        {
+          "mname": "cooking wine",
+          "type": 0,
+          "amount": "1 tablespoon"
+        },
+        {
+          "mname": "Salt",
+          "type": 0,
+          "amount": "1 small spoon"
+        },
+        {
+          "mname": "Chicken Powder",
+          "type": 0,
+          "amount": "the right amount"
+        },
+        {
+          "mname": "Winter Bamboo Shoots",
+          "type": 1,
+          "amount": "250g"
+        },
+        {
+          "mname": "duck",
+          "type": 1,
+          "amount": "650g"
+        }
+      ],
+      "process": [
+        {
+          "pcontent": "Cut the duck meat into pieces",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/174144_46219.jpg"
+        },
+        {
+          "pcontent": "Cut asparagus into rolled shapes and blanch in a pot of boiling water",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/174144_51673.jpg"
+        },
+        {
+          "pcontent": "Blanch the duck meat in boiling water and rinse it",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/174145_28141.jpg"
+        },
+        {
+          "pcontent": "Using a powerful electric pressure cooker, add the blanched ingredients and Ginger slices together, add a little wine and the right amount of water, and press the Boil button.<br />\n<br />\n",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/174145_67644.jpg"
+        },
+        {
+          "pcontent": "Add a little bit of Salt and chicken seasoning before starting the pan<br />\n<br />\n",
+          "pic": "http://api.jisuapi.com/recipe/upload/20160719/174145_99919.jpg"
+        }
+      ]
     }
   ]
   }
